@@ -121,3 +121,115 @@ clear
 cd 2201768683/
 ls
 cat index.php 
+clear
+sudo apt install default-jdk-headless
+clear
+java --version
+lear
+clear
+wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -.
+clear
+wget -q -O - https://pkg.jenkins.io/debian/jenkins.io.key | sudo apt-key add -
+clear
+sudo sh -c 'echo deb http://pkg.jenkins.io/debian-stable binary/ > /etc/apt/sources.list.d/jenkins.list'
+clear
+sudo apt-get update
+sudo apt-get install jenkins -y
+clear
+sudo systemctl start jenkins
+sudo systemctl status jenkins
+clear
+sudo ufw allow 8080
+clear
+sudo ufw status
+clear
+sudo ufw allow OpenSSH
+sudo ufw allow enable
+clear
+sudo ufw allow OpenSSH
+clear
+sudo ufw allow OpenSSH
+sudo ufw enable
+clear
+sudo ufw status
+clear
+sudo cat /var/lib/Jenkins/secrets/initialAdminPassword
+clear
+sudo cat /var/lib/Jenkins/secrets/initialAdminPassword
+clear
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+clear
+sudo apt-get update
+sudo apt-get install git
+clear
+git --version
+clear
+git config
+clear
+git config --global user.name "realxnesia"
+git config --global user.email "dhikaaditya1@gmail.com"
+git config --list
+clear
+ls
+clear
+ls -a
+clear
+ls
+clear
+sudo network ;s
+clear
+sudo network ls
+sudo docker network ls
+clear
+sudo docker network inspect ls
+clear
+sudo docker network inspect dknet-dbserv
+clear
+sudo docker network connect
+clear
+
+sudo docker rm c
+sudo docker start 94
+sudo docker stop 94
+sudo docker start a5e
+sudo docker network inspect dknetdbserv
+sudo docker network inspect dknet-dbserv
+clear
+sudo nano Dockerfile 
+clear
+ls
+cd2
+cd 2201768683/
+ls
+nano index.php 
+clear
+ls
+sudo rm index.php 
+sudo nano index.php 
+clear
+cd ..
+clear
+sudo usermod -a -G docker jenkins 
+clear
+su jenkins
+clear
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+clear
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+su jenkins
+clear
+sudo service jenkins restart
+ifconfig
+clear
+git init
+git commit -m "melakukan inisasi beberapa file dan folder"
+clear
+git init
+git add .
+git commit -m "melakukan inisasi beberapa file dan folder"
+clear
+git remote add origin https://github.com/realxnesia/trucorp-dataview-dhikr.git
+git branch
+clear
+git push -u origin master
+clear
